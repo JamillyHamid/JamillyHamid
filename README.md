@@ -1,7 +1,4 @@
 <h1 align="center">Oi 👋 , eu sou JamillyHamid</h1><h3 align="center">Sou estudante de Engenharia de Software no Brasil.
-</h3>- 
-Atualmente estou aprendendo Programação, para chegar até mim é só me enviar um e-mail, **
-hamidjamilly28@edu.unifil.br**
 
 <h3 align="left">Conecte-se 📫 🌱 comigo:</h3><p align="left">
 
